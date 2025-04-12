@@ -10,10 +10,12 @@ LLM apps use cases
 2 ebooks
 Gen AI Impact
 Into to AI/Gen AI
+--
 Orchestration frameworks
 LLM apps architecture 
 Level 1 LLM app
 Level 2 LLM app
+--
 intro fullstack apps
 level 3 llm apps
 advanced LLMOPS with Langsmith
